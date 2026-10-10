@@ -2,9 +2,6 @@
 
 Difficulty: Easy
 
-- [1. Two Sum](./easy/0001-two-sum/)
-- [20. Valid Parentheses](./easy/0020-valid-parentheses/)
-
 https://leetcode.com/problems/valid-parentheses/
 
 ## Solution
